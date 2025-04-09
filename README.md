@@ -8,7 +8,7 @@ In my opinion, applying `+ASC` to a PsiPartition-determined partition in an alig
   
 This repository is currently under development and its content is exactly the same as PsiPartition.  
   
-Thank you for Dr. Xu and Professor Onoda for developing this innovative software, PsiPartition.  
+Thank you for Dr. Xu and Professor Onoda for developing the innovative software, PsiPartition.  
   
 Hiroaki Sato (he/him)  
 Senior High School at Komaba, University of Tsukuba  
