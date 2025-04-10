@@ -1,5 +1,5 @@
 # PsiPartitionPlus
-**This repository is currently under construction. Please use PsiPartition instead.**
+**This repository is currently under development. Please use PsiPartition instead.**
 
 PsiPartitionPlus is a modified PsiPartition ([xu-shi-jie/PsiPartition](https://github.com/xu-shi-jie/PsiPartition)) ([Xu & Onoda, 2024](https://doi.org/10.1007/s00239-024-10215-7)) with support for binary data and selectivity of whether users will apply ascertainment bias corrections (`+ASC`; [Lewis, 2001](https://doi.org/10.1080/106351501753462876)) to partitions, in the IQ-TREE calculation phases, depending on the conditions of their data.
 
