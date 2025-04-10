@@ -24,7 +24,7 @@ To enable the Bayesian optimization, you need to register an account on [Weights
 python PsiPartitionPlus_wandb.py --msa <MSA File> --format <fasta or phylip> --alphabet <dna, aa, or bin> --asc <no or yes> --max_partitions <max_partitions> --n_iter <number of iterations>
 ```
 
-`--asc` specifies whether `+ASC` should be applied to all partitions or not at all, in the IQ-TREE calculation phases.
+`--asc` specifies whether `+ASC` should be applied to all partitions or not at all in the IQ-TREE calculation phases.
 
 ## Citation
 If you used PsiPartitionPlus in your work, please cite the original PsiPartition paper ([Xu & Onoda, 2024](https://doi.org/10.1007/s00239-024-10215-7)) and the Zenodo repository of PsiPartitionPlus (click `Cite this repository`).
